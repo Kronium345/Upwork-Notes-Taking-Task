@@ -48,3 +48,37 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+# My Words
+# React Native Note-Taking App
+
+This is a simple cross-platform note-taking application developed using React Native and managed through Expo Go. It allows users to add, view, and delete notes. This project utilizes Redux Toolkit for state management and employs `useMemo` for performance optimization.
+
+## Technologies Used
+
+- **React Native**: A framework for building native apps using React.
+- **Expo Go**: An open-source platform for making universal native apps for Android and iOS with JavaScript and React.
+- **Redux Toolkit**: The official, opinionated, batteries-included toolset for efficient Redux development.
+- **useMemo**: A React hook used to memoize expensive functions to optimize performance.
+
+## Installation
+
+To get this project up and running on your local machine, follow these steps:
+
+1. ## Clone the repository:
+   git clone https://github.com/Kronium345/notes-app-task.git
+   npm install
+   npx expo start
+
+2. ## Details of the Notes App
+3. 
+### Additional Details in README:
+
+1. ## Component Descriptions: Each major component (`AddNote`, `NoteItem`, `NoteListView`) and their responsibilities are described to give a clear picture of the app's UI structure.
+2. ## Used index.tsx in app folder
+
+
+
+This README aims to provide all necessary details for understanding, using, and contributing to the project while giving a comprehensive overview of its structure and functionalities. Adjust the GitHub repository link and any other specific details as needed to align with your project’s actual setup and repository.
+
+
